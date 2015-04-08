@@ -10,9 +10,9 @@ Here will be the awesome js-parsons docs! This is still heavily under constructi
 
 ## Getting started
 
-The easiest way to get js-parsons is to download a zip file from the GitHub. You can find the latest version [here](https://github.com/vkaravir/js-parsons/archive/master.zip). Alternatively, if you are familiar with ```git```, you can clone the project like this:
+The easiest way to get js-parsons is to download a zip file from the GitHub. You can find the latest version [here](https://github.com/js-parsons/js-parsons/archive/master.zip). Alternatively, if you are familiar with ```git```, you can clone the project like this:
 
-    git clone https://github.com/vkaravir/js-parsons.git
+    git clone https://github.com/js-parsons/js-parsons.git
     
 That will clone the js-parsons project into subdirectory ```js-parsons``` in your current directory.
 
