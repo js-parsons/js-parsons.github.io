@@ -14,7 +14,7 @@ Development of the js-parsons library has been done mainly in research projects.
 ***
 Petri Ihantola, Ville Karavirta (2011). **Two-Dimensional Parson's Puzzles: The Concept, Tools, and First Observations**. *Journal of Information Technology Education: Innovations in Practice, 10, pp. 1–14*. ([pdf](http://www.jite.org/documents/Vol10/JITEv10IIPp119-132Ihantola944.pdf))
 
-- This is the original article introducing the concept of constructing pythong code by draggind and dropping code fragments and the first prototype of js-parsons. 
+- This is the original article introducing the concept of constructing python code by dragging and dropping code fragments and the first prototype of js-parsons. 
 
 ***
 Juha Helminen, Petri Ihantola, Ville Karavirta, Lauri Malmi (2012). **How Do Students Solve Parsons Programming Problems? – An Analysis of Interaction Traces**. In *Proceedings of the 8th International Computing Education Research Conference, pp. 119–126, Auckland, New Zealand.* ([link](http://dx.doi.org/10.1145/2361276.2361300))
